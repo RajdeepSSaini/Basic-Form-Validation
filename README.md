@@ -29,7 +29,7 @@ The JavaScript script (`script.js`) included in this repository:
 - **Error Handling:** Dynamically displays error messages in red next to each invalid form field.
 
 ## Usage
-1. Clone this repository to your local machine:
+Clone this repository to your local machine:
 
  
 ## Contributions
